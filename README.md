@@ -51,10 +51,6 @@
 
 ###
 
-<div align="right">
-  <img src="https://profile-counter.glitch.me/ibmaga/count.svg?"  />
-</div>
-
 ###
 
 <div align="left">
